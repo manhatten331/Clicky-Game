@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+
+.wrapper {
+    padding-top: 50px; 
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    overflow: auto;
+}
